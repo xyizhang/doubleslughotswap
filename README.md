@@ -1,2 +1,2 @@
-# doubleslughotswap
-A macro for quickly switching between slug shotguns for boss fight damage.
+# D2 Macro Collection
+A collection of macros I use for Destiny 2
